@@ -19,7 +19,6 @@ class Vacation extends School {
 public class Hierarchical {
     public static void main(String[] args) {
         Tution K1 = new Tution();  // Change this line
-        K1.();
         K1.bag();
         K1.lesson();
     }
